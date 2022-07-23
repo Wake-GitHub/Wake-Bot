@@ -1,2 +1,2 @@
 # Wake-Bot
-Learning to code a Discord bot for my community server
+Learning to code a Discord bot in python for my community server.
